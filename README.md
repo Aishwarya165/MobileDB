@@ -1,6 +1,4 @@
-# MobileDB
 
-To Store and Display User Profile in SQLite Database . Sign Up and Sign In Passwords are Encrypted using AES Algorithm. Date picker to choose your Date of Birth and Automatic Age and Percentage Calculators are implemented.
 
  ![image](https://user-images.githubusercontent.com/66171389/129241385-9d488c95-0104-48c8-b813-8dd2dcbd26d4.png)
  
